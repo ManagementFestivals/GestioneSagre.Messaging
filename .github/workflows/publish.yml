@@ -2,7 +2,7 @@
  
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
     paths: [ 'src/GestioneSagre.Messaging/**' ]
   workflow_dispatch:
 
@@ -10,7 +10,6 @@ env:
   NET_VERSION: '6.x'
   PROJECT_NAME: src/GestioneSagre.Messaging
   PROJECT_FILE: GestioneSagre.Messaging.csproj
-  RELEASE_NAME: GestioneSagre-Messaging
   
 jobs:
   build:
