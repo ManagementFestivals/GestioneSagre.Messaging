@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestioneSagre.Messaging", "src\GestioneSagre.Messaging\GestioneSagre.Messaging.csproj", "{8862FA32-E170-47B2-A85E-C27B226F9545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8862FA32-E170-47B2-A85E-C27B226F9545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8862FA32-E170-47B2-A85E-C27B226F9545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8862FA32-E170-47B2-A85E-C27B226F9545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8862FA32-E170-47B2-A85E-C27B226F9545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E02FD5B5-C4E1-4030-86C0-7F0A9976399F}
+	EndGlobalSection
+EndGlobal
